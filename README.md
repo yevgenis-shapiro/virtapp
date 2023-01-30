@@ -9,3 +9,11 @@ However, I'm also intensively exploring such topics like (among other things):
 🔹 Apache Kafka
 🔹 Knative
 🔹 Quarkus
+Find Me Around The Web 🌍
+
+    🗣 Blog
+    🔴 YouTube
+    🐦 Twitter
+    🔗 Linkedin
+    📫 E-mail
+
