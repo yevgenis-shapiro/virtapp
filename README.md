@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @virtapp
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi there 👋 My name's Yevgeni Shapiro
 
-<!---
-virtapp/virtapp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Infrastructure 🔹 Software Architect 🔹 Speaker and learner 🔹 YouTuber and blogger
+🛠  Tech Stack (mostly)
+
+Spring Boot Java Kubernetes
+
+However, I'm also intensively exploring such topics like (among other things):
+🔹 Apache Kafka
+🔹 Knative
+🔹 Quarkus
