@@ -1,6 +1,7 @@
 Hi there 👋 My name's Yevgeni Shapiro
 
-System Architect🔹 Infrastructure Architect🔹 Speaker and learner 
+System Architect🔹 Infrastructure Architect🔹 Cloud Native Architecture, Microservices and... Containers!
+
 
 🛠  Tech Stack (mostly)
 
