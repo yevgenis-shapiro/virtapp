@@ -1,9 +1,8 @@
 Hi there 👋 My name's Yevgeni Shapiro
 
-More than 10 years of experience in the field of architecture and life cycle development.Providing leadership across a range of technologies,creating and producing complex information architecture designs and implementation plans : Data Center Providers | Cloud Infrastructures | Devops Methodology | Container Orchestration | Application Security
+More than 10 years of experience in the field of architecture and life cycle development .Providing leadership across a range of technologies ,creating and producing complex information architecture designs and implementation plans.
 
 System Architect🔹 Infrastructure Architect🔹 Cloud Native Architecture, Microservices and... Containers
-
 However, I'm also intensively exploring such topics like (among other things):
 🔹 Big Data. AI
 🔹 ClearML
