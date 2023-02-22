@@ -1,7 +1,10 @@
 Hi there 👋 My name's Yevgeni Shapiro
 
 System Architect🔹 Infrastructure Architect🔹 Cloud Native Architecture, Microservices and... Containers
+
 📫 How to reach me:
+![image](https://user-images.githubusercontent.com/23049337/220772462-517a457c-51e1-4127-9edb-adad076c602e.png)
+
 https://www.linkedin.com/in/yevgeni-shapiro-863859118/
 
 
