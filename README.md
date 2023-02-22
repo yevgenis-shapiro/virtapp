@@ -2,9 +2,10 @@ Hi there 👋 My name's Yevgeni Shapiro
 
 System Architect🔹 Infrastructure Architect🔹 Cloud Native Architecture, Microservices and... Containers
 
-📫 How to reach me:
-
-
+However, I'm also intensively exploring such topics like (among other things):
+🔹 Big Data. AI
+🔹 ClearML
+🔹 GraphQL
 
 
 🛠  Kubernetes Anywhere
@@ -14,10 +15,5 @@ System Architect🔹 Infrastructure Architect🔹 Cloud Native Architecture, Mic
 ![image](https://user-images.githubusercontent.com/23049337/220771651-ea10173d-e5ed-443d-bb4c-9307fa50fc46.png)
 ![image](https://user-images.githubusercontent.com/23049337/220773006-9f54e963-a282-4708-8639-bf39cd29ed54.png)
 
-
-However, I'm also intensively exploring such topics like (among other things):
-🔹 Big Data. AI
-🔹 ClearML
-🔹 GraphQL
 
 
