@@ -5,7 +5,8 @@ System Architect🔹 Infrastructure Architect🔹 Cloud Native Architecture, Mic
 
 🛠  Kubernetes Anywhere
 
-![image](https://user-images.githubusercontent.com/23049337/215611085-2af5020c-6e83-4d10-83ef-408e50385d9a.png)
+![image](https://user-images.githubusercontent.com/23049337/220771451-523b2f85-9f2a-4ce9-a65a-fc3a28398fce.png)
+![image](https://user-images.githubusercontent.com/23049337/220771323-409d6613-f014-4a13-bbb0-4801e06478a0.png)
 
 
 However, I'm also intensively exploring such topics like (among other things):
