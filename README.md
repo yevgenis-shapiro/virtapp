@@ -19,6 +19,8 @@ However, I'm also intensively exploring such topics like (among other things):
 ![image](https://user-images.githubusercontent.com/23049337/220771651-ea10173d-e5ed-443d-bb4c-9307fa50fc46.png)
 ![image](https://user-images.githubusercontent.com/23049337/220773006-9f54e963-a282-4708-8639-bf39cd29ed54.png)
 ![image](https://user-images.githubusercontent.com/23049337/220775811-39e317aa-909e-4e9e-a148-b7cc713b0392.png)
+![image](https://user-images.githubusercontent.com/23049337/221410642-bf73baa9-7f4c-4642-815d-709ad2c1d201.png)
+
 
 
 
