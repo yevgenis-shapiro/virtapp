@@ -24,7 +24,7 @@ However, I'm also intensively exploring such topics like (among other things):
 
 
 
-
+![virtapp's Stats](https://github-readme-stats.vercel.app/api?username=virtapp&theme=default&show_icons=true&hide_border=false&count_private=false)
 
 
 
