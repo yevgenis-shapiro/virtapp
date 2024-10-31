@@ -27,7 +27,7 @@ However, I'm also intensively exploring such topics like (among other things):
 ![image](https://camo.githubusercontent.com/47bdcbb710332724072c75913b37203a44c0b6b299fcbd16b9b5b79489a5c76b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f417061636865253230416972666c6f772d3031374345453f7374796c653d666f722d7468652d6261646765266c6f676f3d417061636865253230416972666c6f77266c6f676f436f6c6f723d7768697465)
 
 
-![virtapp's Stats](https://github-readme-stats.vercel.app/api?username=virtapp&theme=default&show_icons=true&hide_border=false&count_private=true)
+![virtapp's Stats](https://github-readme-stats.vercel.app/api?username=virtapp&theme=default&show_icons=true&hide_border=false&count_private=false)
 ![virtapp's Streak](https://github-readme-streak-stats.herokuapp.com/?user=virtapp&theme=default&hide_border=false)
 ![virtapp's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=virtapp&theme=default&show_icons=true&hide_border=false&layout=compact)
 
