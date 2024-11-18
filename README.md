@@ -1,7 +1,7 @@
 Hi there 👋 My name's Yevgeni Shapiro
 
 
-System Architect🔹 Infrastructure Architect🔹 Cloud Native Architecture, Microservices and... Containers
+Big Data  🔹 AI 🔹 Cloud Native Architecture, Microservices and... Containers
 
 However, I'm also intensively exploring such topics like (among other things):
 🔹 Big Data. AI
