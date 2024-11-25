@@ -27,6 +27,8 @@ However, I'm also intensively exploring such topics like (among other things):
 ![image](https://camo.githubusercontent.com/47bdcbb710332724072c75913b37203a44c0b6b299fcbd16b9b5b79489a5c76b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f417061636865253230416972666c6f772d3031374345453f7374796c653d666f722d7468652d6261646765266c6f676f3d417061636865253230416972666c6f77266c6f676f436f6c6f723d7768697465)
 
 ![image](https://raw.githubusercontent.com/ishuar/ishuar/main/svg/argoprojio-icon.svg)
+![image](https://raw.githubusercontent.com/ishuar/ishuar/main/svg/fluxcdio-icon.svg)
+![image](https://camo.githubusercontent.com/00ae81cf360b617d8d70173d6f14a18bca6ee34e3f9a7cb3874757b001ebb125/68747470733a2f2f776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6b756265726e6574732e737667)
 
 
 ![virtapp's Stats](https://github-readme-stats.vercel.app/api?username=virtapp&theme=default&show_icons=true&hide_border=false&count_private=false)
