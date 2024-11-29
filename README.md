@@ -1,4 +1,4 @@
-Hi there 👋 My name's Yevgeni Shapiro
+Hi there 👋👋👋
 
 
 Big Data  🔹 AI 🔹 Cloud Native Architecture, Microservices and... Containers
