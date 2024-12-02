@@ -35,7 +35,6 @@ However, I'm also intensively exploring such topics like (among other things):
 ![virtapp's Stats](https://github-readme-stats.vercel.app/api?username=yevgenis-shapiro&theme=default&show_icons=true&hide_border=false&count_private=false)
 ![virtapp's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yevgenis-shapiro&theme=default&hide_border=false)
 ![virtapp's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yevgenis-shapiro&theme=default&show_icons=true&hide_border=false&layout=compact)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/yevgenis-shapiro/github-profile-trophy)
 
 
