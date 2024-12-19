@@ -1,7 +1,7 @@
 Hi there 👋👋👋
 
 
-Big Data  🔹 AI 🔹 Cloud Native Architecture, Microservices and... Containers
+Cloud Native Architecture 🔹 Microservices and... Containers
 
 However, I'm also intensively exploring such topics like (among other things):
 🔹 Big Data. AI
@@ -32,13 +32,10 @@ However, I'm also intensively exploring such topics like (among other things):
 ![image](https://camo.githubusercontent.com/5a182e972ab8b496196c50c5439735a3007c1ece78570f89203043c8dedd11e4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6b6962616e612d3243413545303f7374796c653d666f722d7468652d6261646765266c6f676f3d6b6962616e61266c6f676f436f6c6f723d7768697465)
 
 
-![virtapp's Stats](https://github-readme-stats.vercel.app/api?username=yevgenis-shapiro&theme=default&show_icons=true&hide_border=false&count_private=false)
-![virtapp's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yevgenis-shapiro&theme=default&hide_border=false)
-![virtapp's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yevgenis-shapiro&theme=default&show_icons=true&hide_border=false&layout=compact)
+![yevgenis-shapiro's Stats](https://github-readme-stats.vercel.app/api?username=yevgenis-shapiro&theme=default&show_icons=true&hide_border=false&count_private=false)
+![yevgenis-shapiro's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yevgenis-shapiro&theme=default&hide_border=false)
+![yevgenis-shapiro's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yevgenis-shapiro&theme=default&show_icons=true&hide_border=false&layout=compact)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/yevgenis-shapiro/github-profile-trophy)
-
-
-
 
 
 
