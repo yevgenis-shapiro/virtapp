@@ -1,7 +1,6 @@
-Hi there 👋👋👋
+Hi there 👋👋👋 It's a public portfolio that provide my experience and expertise with hybrid and cloud native technology.
 
-
-Cloud Native Architecture 🔹 Microservices and... Containers
+Cloud Native Architecture 🔹 Microservices and... Containers 🔹 Innovation 
 
 However, I'm also intensively exploring such topics like (among other things):
 🔹 Big Data. AI
