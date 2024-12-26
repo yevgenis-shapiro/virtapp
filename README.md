@@ -2,8 +2,8 @@ Hi there 👋👋👋 It's a public portfolio that provide my experience and exp
 
 ##
 Cloud Native Architecture 🔹 Microservices and... Containers 🔹 Innovation 
-However, I'm also intensively exploring such topics like (among other things):
 
+However, I'm also intensively exploring such topics like (among other things):
 🔹 Big Data. AI
 🔹 ClearML
 🔹 GraphQL
