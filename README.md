@@ -43,7 +43,7 @@ However, I'm also intensively exploring such topics like (among other things):
 
 
 ![yevgenis-shapiro's Stats](https://github-readme-stats.vercel.app/api?username=yevgenis-shapiro&theme=default&show_icons=true&hide_border=false&count_private=false)
-
+![yevgenis-shapiro's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yevgenis-shapiro&theme=default&show_icons=true&hide_border=true&layout=compact)
 ![yevgenis-shapiro's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yevgenis-shapiro&theme=default&hide_border=true)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/yevgenis-shapiro/github-profile-trophy)
 
