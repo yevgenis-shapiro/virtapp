@@ -1,4 +1,4 @@
-Hi there 👋👋👋 It's a public portfolio that provide my expertise and experience as a mentor :)
+Hi there 👋👋👋 It's a public portfolio that provide my expertise  :)
 
 ##
 Innovation 🔹 Cloud Native Architecture 🔹 Microservices and... Containers 
