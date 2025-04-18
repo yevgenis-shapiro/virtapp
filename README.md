@@ -1,7 +1,7 @@
-Hi there 👋👋👋 It's a public portfolio that provide my experience and expertise ☸️🚀🧠
+Hi there 👋👋👋 It's a public portfolio that provide my experience and expertise 
 
 ##
-Cloud Native Architecture 🔹 Microservices and... Containers 🔹 Innovation
+Cloud Native Architecture 🔹 Microservices and... Containers 🔹 Innovation 🧠 LLM Backend
 
 However, I'm also intensively exploring such topics like (among other things):
 🔹 Big Data. AI
