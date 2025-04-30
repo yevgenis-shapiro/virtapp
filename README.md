@@ -1,12 +1,13 @@
 Hi there 👋👋👋 It's a public portfolio that provide my experience and expertise 
 
 ##
-Cloud Native Architecture 🔹 Microservices and... Containers 🔹 Innovation 🧠 LLM Backend
+Cloud Native Architecture ✨ Microservices and... Containers ✨ Innovation 
 
 However, I'm also intensively exploring such topics like (among other things):
 🔹 Big Data. AI
 🔹 ClearML
 🔹 GraphQL
+🧠 LLM Backend
 
 
 
