@@ -48,7 +48,7 @@ However, I'm also intensively exploring such topics like (among other things):
 ![image](https://camo.githubusercontent.com/0d4046690f7deae1ebebcf2365f211c5ec5740489234f8a2f925994135a2a09e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6b7562657370686572652d2532333531623438342e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6b756265726e65746573266c6f676f436f6c6f723d7768697465)
 
 
-![virtapp's Stats](https://github-readme-stats.vercel.app/api?username=virtapp&theme=default&show_icons=true&hide_border=false&count_private=false)
-![virtapp's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=virtapp&theme=default&show_icons=true&hide_border=true&layout=compact)
+![virtapp's Stats](https://github-readme-stats.vercel.app/api?username=yevgenis-shapiro&theme=default&show_icons=true&hide_border=false&count_private=false)
+![virtapp's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yevgenis-shapiro&theme=default&show_icons=true&hide_border=true&layout=compact)
 
 
